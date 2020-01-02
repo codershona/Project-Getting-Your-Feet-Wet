@@ -8,7 +8,7 @@
 
 ## Heroku Open :
 
-**[Toy App Demo Project](https://tranquil-badlands-51074.herokuapp.com/)**
+**[Toy App Demo Project](https://guarded-meadow-33079.herokuapp.com/)**
 
 
 Project: Starting The RoR Tutorial
