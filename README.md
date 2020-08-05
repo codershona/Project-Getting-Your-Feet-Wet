@@ -4,8 +4,6 @@
 
 #It is a Toy App which is builded by rails 5 framework.
 
-## Developer: Falguni Islam(Software Developer)
-
 ## Heroku Open :
 
 **[Toy App Demo Project](https://guarded-meadow-33079.herokuapp.com/)**
